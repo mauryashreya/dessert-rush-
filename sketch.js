@@ -22,9 +22,9 @@ function preload(){
      customer3=loadImage("images/customer3.png")
      bubble=loadImage("images/bubble.png ")
      plate=loadImage("images/plate.png")
-     backgroundimg=loadImage("images/pink.PNG")
-     shelf4=loadImage("images/shelf2.PNG")
-     quote1=loadImage("images/q1.PNG")
+     backgroundimg=loadImage("images/pink.png")
+     shelf4=loadImage("images/shelf2.png")
+     quote1=loadImage("images/q1.png")
      quote2=loadImage("images/q2.jpg")
      floor=loadImage("images/floor.jpg")
 }
